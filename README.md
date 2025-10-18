@@ -43,4 +43,6 @@
 ### 📊 GitHub Stats
 ![Abhirup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhirup0xC&show_icons=true&theme=radical)
 
+---
+
 ⭐ *Excited to learn, grow, and share my journey!*
