@@ -6,10 +6,17 @@
 
 ---
 
+<img src="./WhatsApp%20Image%202025-10-18%20at%2022.20.50_554a2588.jpg" alt="My Photo" width="400"/>
+
+
+---
+
 ### 🛠️ Technologies & Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/IDE-Dev--C%2B%2B-red)
+
 
 ---
 
