@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Abhirup ✨
+# Hi there, I'm Abhirup
 
-🎯 **Currently Learning:** C Programming  
-💡 I'm a student who recently started coding and excited to learn and improve every day.  
-🚀 Building my foundation in programming and exploring ways to apply what I learn.  
+ **Currently Learning:** C Programming  
+I'm a student who recently started coding and excited to learn and improve every day.  
+Building my foundation in programming and exploring ways to apply what I learn.  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 🎯 Interests:
+### Interests:
 - Watching anime and following engaging stories  
 - Reading or watching crime and suspense thrillers  
 - Exploring new places and cultures  
@@ -35,7 +35,7 @@
 
 ---
 
-### 📫 Contact Me:
+### Contact Me:
 - [![Discord](https://img.shields.io/badge/Discord-niggesh.1-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1336683265032978457)
 
 ---
